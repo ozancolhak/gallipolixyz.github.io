@@ -587,6 +587,39 @@ In this webinar, we will explore model vulnerabilities, data privacy risks, and 
       'Real-world pentesting use cases',
       'Q&A session'
     ]
+  },
+  {
+    id: '18',
+    title: 'Application Security in the Age of AI',
+    description: `In this webinar, we will explore how application security is changing in the age of artificial intelligence.
+
+As AI accelerates code generation, organizations must rethink their AppSec strategies. We will discuss LLM-based attack vectors, how vulnerability management is evolving with AI, and what next-generation secure development processes should look like.`,
+    date: new Date('2026-03-08'),
+    time: '21:00',
+    duration: '1-2 hours',
+    type: 'webinar',
+    difficulty: 'beginner',
+    instructor: 'Caner Filibelioğlu – Senior Cybersecurity Expert',
+    location: 'online',
+    meetingLink: 'https://youtube.com/@gallipolixyz',
+    tags: [
+      'application-security',
+      'appsec',
+      'ai-security',
+      'llm-security',
+      'secure-development',
+      'youtube-stream',
+      'gallipoli'
+    ],
+    isPast: isEventPast(new Date('2026-03-08')),
+    prerequisites: ['Interest in application security and artificial intelligence'],
+    agenda: [
+      'How AI is reshaping application security',
+      'LLM-based attack vectors and emerging threats',
+      'AI-driven changes in vulnerability management',
+      'Next-generation secure development processes',
+      'Q&A session with Caner Filibelioğlu'
+    ]
   }
 ];
 
